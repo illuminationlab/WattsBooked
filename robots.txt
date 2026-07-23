@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+Disallow: /book-demo.html
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://wattsbooked.com/sitemap.xml

@@ -1,0 +1,15 @@
+# OS / tooling
+.DS_Store
+.claude/
+node_modules/
+*.log
+
+# Build meta-artifacts — MUST NOT ship to the public static site.
+# Coolify's staticfile provider publishes the repo root as /, so anything
+# committed here becomes fetchable at wattsbooked.com/<file>.
+content.md
+variables.json
+research-brief.md
+NICHE-BUILD-PLAYBOOK.md
+master-logo.*
+master-square.*
