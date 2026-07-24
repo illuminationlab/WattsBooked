@@ -1541,6 +1541,14 @@ select.form-input {
 @media (max-width: 1024px) {
   .nav-main { display: none; }
   .mobile-toggle { display: flex; }
+  /* Hide the long header CTA pill once the hamburger appears — otherwise
+     "First 270: $99/mo Forever" collides with the logo on phones. The mobile
+     menu, the announcement-bar "See pricing" link, and the hero CTA all cover
+     the conversion path. */
+  .header-cta { display: none; }
+  /* Belt-and-suspenders: keep logo + hamburger from ever overlapping. */
+  .header .container { gap: 12px; }
+  .logo { min-width: 0; }
 
   .grid-4 { grid-template-columns: repeat(2, 1fr); }
   .split { grid-template-columns: 1fr; gap: 40px; }
