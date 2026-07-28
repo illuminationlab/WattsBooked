@@ -8,6 +8,7 @@
 - [Features](https://wattsbooked.com/features.html): Full feature breakdown — Voice AI, Conversation AI, CRM, automation, analytics, membership
 - [Pricing](https://wattsbooked.com/pricing.html): One plan, every feature — $99/mo locked in forever for the first 270 customers (+ usage-based AI/SMS). No annual contracts.
 - [Use Cases](https://wattsbooked.com/use-cases.html): How WattsBooked solves real problems for solo electricians, office staff, multi-location contractors, and shop managers
+- [Starting a Business](https://wattsbooked.com/new-business.html): The complete roadmap for starting an electrical business — licensing, registration, startup costs, pricing, getting your first customers, and the systems to run it
 - [About](https://wattsbooked.com/about.html): Company background and mission
 - [Blog](https://wattsbooked.com/resources/blog.html): Electrical business growth, AI, and operations content
 - [Revenue Calculator](https://wattsbooked.com/resources/revenue-calculator.html): Estimate revenue impact of automation
