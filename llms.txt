@@ -6,6 +6,7 @@
 
 - [Homepage](https://wattsbooked.com/): Platform overview and value proposition
 - [Features](https://wattsbooked.com/features.html): Full feature breakdown — Voice AI, Conversation AI, CRM, automation, analytics, membership
+- [Answering Service](https://wattsbooked.com/answering-service.html): The AI answering service for electricians — answers every call 24/7, flags emergencies, books the job on your calendar, and logs the lead in your CRM
 - [Pricing](https://wattsbooked.com/pricing.html): One plan, every feature — $99/mo locked in forever for the first 270 customers (+ usage-based AI/SMS). No annual contracts.
 - [Use Cases](https://wattsbooked.com/use-cases.html): How WattsBooked solves real problems for solo electricians, office staff, multi-location contractors, and shop managers
 - [Starting a Business](https://wattsbooked.com/new-business.html): The complete roadmap for starting an electrical business — licensing, registration, startup costs, pricing, getting your first customers, and the systems to run it
